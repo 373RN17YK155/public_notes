@@ -1,22 +1,22 @@
-linux
+##### linux, vim, news
 @DistroTube: https://www.youtube.com/@DistroTube
 @BrodieRobertson: https://www.youtube.com/@BrodieRobertson
 @LukeSmithxyz: https://www.youtube.com/@LukeSmithxyz
 @MentalOutlaw: https://www.youtube.com/@MentalOutlaw
 
-JavaScript, Node.js:
+##### JavaScript, Node.js:
 @JavaScriptNinja: https://www.youtube.com/@JavaScriptNinja
 @TimurShemsedinov: https://www.youtube.com/@TimurShemsedinov
 @AsForJS: https://www.youtube.com/@AsForJS
 
-Simple of Angular: 
+##### Simple about Angular: 
 @grommaks: https://www.youtube.com/@grommaks
 @Kulibins1: https://www.youtube.com/@Kulibins1
 @DecodedFrontend: https://www.youtube.com/@DecodedFrontend
 
-HTML, semantic markup, Css:
+##### HTML, semantic markup, Css:
 @DemiMurych: https://www.youtube.com/@DemiMurych
 @KevinPowell: https://www.youtube.com/@KevinPowell
 
-Lib tutor: 
+##### Lib tutor: 
 @ChartJS-tutorials: https://www.youtube.com/@ChartJS-tutorials
